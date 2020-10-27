@@ -18,7 +18,7 @@ I'm Vaclav from <img src="https://image.flaticon.com/icons/svg/197/197576.svg" w
 ![GO](https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white)
 ![Vue,js](https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vaclav-dvorak&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vaclav-dvorak&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaclav-dvorak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
