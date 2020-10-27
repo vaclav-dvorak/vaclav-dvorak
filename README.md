@@ -1,9 +1,9 @@
-### Hi there nice to see you 👋
+### 👋 Hi there nice to see you 
 Welcome to my page!
 
 I'm Vaclav from <img src="https://image.flaticon.com/icons/svg/197/197576.svg" width="13"/> <b>Prague, Czech republic</b>.
 
-### Things I code with
+### 🔭 Things I code with
 ![Kubernetes](https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform%20-%235835CC.svg?&style=for-the-badge&logo=terraform&logoColor=white)
@@ -22,7 +22,7 @@ I'm Vaclav from <img src="https://image.flaticon.com/icons/svg/197/197576.svg" w
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaclav-dvorak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### Where to find me
+### 📫 Where to find me
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaclav-dvorak/)
 
 <!--
