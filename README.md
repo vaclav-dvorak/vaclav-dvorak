@@ -19,7 +19,7 @@ I'm Vaclav from <img src="https://image.flaticon.com/icons/svg/197/197576.svg" w
 ![Vue,js](https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
 
 ### 📈 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaclav-dvorak&hide=php&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaclav-dvorak&hide=php,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vaclav-dvorak&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📫 Where to find me
