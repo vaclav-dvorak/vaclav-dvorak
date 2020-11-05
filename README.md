@@ -1,4 +1,4 @@
-### 👋 Hi there nice to see you 
+### Hi there nice to see you 👋
 Welcome to my page!
 
 I'm Vaclav from <img src="https://image.flaticon.com/icons/svg/197/197576.svg" width="13"/> <b>Prague, Czech republic</b>.
