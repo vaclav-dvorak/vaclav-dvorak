@@ -22,7 +22,7 @@ I'm Vaclav from <img src="https://image.flaticon.com/icons/svg/197/197576.svg" w
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vaclav-dvorak&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📫 Where to find me
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaclav-dvorak/)
+[![Linkedin](https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaclav-dvorak/)
 
 <!--
 **vaclav-dvorak/vaclav-dvorak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
