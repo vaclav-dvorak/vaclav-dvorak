@@ -13,6 +13,7 @@ I'm Vaclav from <img src="https://image.flaticon.com/icons/svg/197/197576.svg" w
 ![Terraform](https://img.shields.io/badge/terraform-5835CC.svg?&style=for-the-badge&logo=terraform&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-0072C6.svg?&style=for-the-badge&logo=azure-devops&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-039BE5.svg?&style=for-the-badge&logo=firebase)
+![Heroku](https://img.shields.io/badge/heroku-430098.svg?&style=for-the-badge&logo=heroku&logoColor=white)
 ![GCP](https://img.shields.io/badge/gcp-1a73e8?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
