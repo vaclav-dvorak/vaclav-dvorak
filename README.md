@@ -4,10 +4,9 @@ Welcome to my page!
 I'm Vaclav from <img src="https://image.flaticon.com/icons/svg/197/197576.svg" width="13"/> <b>Prague, Czech republic</b>.
 
 ### 🔧 Things I code with
-![Vue,js](https://img.shields.io/badge/vuejs-35495e.svg?&style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![GO](https://img.shields.io/badge/go-00ADD8.svg?&style=for-the-badge&logo=go&logoColor=white)
+![Vue,js](https://img.shields.io/badge/vuejs-35495e.svg?&style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Node.js](https://img.shields.io/badge/nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/php-777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/k8s-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-5835CC.svg?&style=for-the-badge&logo=terraform&logoColor=white)
