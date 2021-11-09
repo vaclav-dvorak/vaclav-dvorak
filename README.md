@@ -1,7 +1,7 @@
 ### Hi there nice to see you 👋
 Welcome to my page!
 
-I'm Vaclav from <img src="https://commons.wikimedia.org/wiki/File:Flag_of_the_Czech_Republic.svg" width="13"/> <b>Prague, Czech republic</b>.
+I'm Vaclav from <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg" width="13"/> <b>Prague, Czech republic</b>.
 
 ### 🔧 Things I code with
 ![GO](https://img.shields.io/badge/go-00ADD8.svg?&style=for-the-badge&logo=go&logoColor=white)
